@@ -102,14 +102,6 @@ Then I spend the next hour figuring out if it is magic, luck or just me overthin
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=siraaj26&theme=prussian&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=siraaj26&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siraaj26&theme=prussian&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-
 ## 📫 Let’s Connect
 
 - 🌐 Portfolio: [https://Siraaj Jeftha.com  ](https://siraaj-jeftha-portfolio-website-65.vercel.app/)

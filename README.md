@@ -104,24 +104,17 @@ Then I spend the next hour figuring out if it is magic, luck or just me overthin
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siraaj26&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=false&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraaj26&layout=compact&theme=tokyonight&hide_title=true&hide_border=false" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siraaj26&theme=tokyonight&hide_border=false" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=siraaj26&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&include_all_commits=true&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=141E30" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siraaj26&theme=tokyonight&hide_border=false&mode=longest" width="32%" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=siraaj26&theme=prussian&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=siraaj26&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siraaj26&theme=prussian&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
 ## 📫 Let’s Connect
 
-- 🌐 Portfolio: https://siraajjeftha.com  
+- 🌐 Portfolio: [https://siraajjeftha.com  ](https://siraaj-jeftha-portfolio-website-65.vercel.app/)
 - 🔗 LinkedIn: https://www.linkedin.com/in/siraaj-jeftha  
-- 📧 Email: mailto:siraaj.jeftha@gmail.com  
+- 📧 Email: sirjeftha@gmail.com  
 
 If you’d like to collaborate, discuss exciting projects, or explore new ideas, feel free to reach out. I’m always open to working on innovative solutions and connecting with like-minded professionals in the tech community.
 

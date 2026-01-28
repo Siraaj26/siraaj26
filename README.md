@@ -24,6 +24,8 @@ I believe in crafting software that not only works reliably but also creates mea
 
 Currently I am focused on developing **Horizon LMS**, an **E-Commerce Platform**, and a **Real-Time Chat App**, while strengthening my expertise in **Java, React, Docker, and Node.js**, and learning **Next.js and TypeScript**.
 
+You can view my projects and portfolio [here](https://siraaj-jeftha-portfolio-website-65.vercel.app/).
+
 ---
 
 ## 🧠 What I Do

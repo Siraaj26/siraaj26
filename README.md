@@ -51,23 +51,6 @@ If we can ship quality software and avoid total chaos along the way, we are doin
   <img src="https://skillicons.dev/icons?i=docker,figma,mongodb,git,github" />
 </p>
 
-### 📌 Details / What I Use Them For
-| Technology | Purpose |
-|------------|---------|
-| Java | Backend Development |
-| Python | Data and Scripting |
-| Docker | Containerization |
-| Figma | Design Tool |
-| CSS | User Interface |
-| JavaScript | Interaction |
-| Node.js | Web Server |
-| Express.js | Node Framework |
-| MongoDB | Database |
-| React | Frontend Framework |
-| TailwindCSS | User Interface |
-| Next.js | React Framework (currently learning) |
-| TypeScript | Typed JavaScript (currently learning) |
-
 ---
 
 ## 🔧 Featured Projects

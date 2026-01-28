@@ -112,7 +112,7 @@ Then I spend the next hour figuring out if it is magic, luck or just me overthin
 
 ## 📫 Let’s Connect
 
-- 🌐 Portfolio: [https://siraajjeftha.com  ](https://siraaj-jeftha-portfolio-website-65.vercel.app/)
+- 🌐 Portfolio: [https://Siraaj Jeftha.com  ](https://siraaj-jeftha-portfolio-website-65.vercel.app/)
 - 🔗 LinkedIn: https://www.linkedin.com/in/siraaj-jeftha  
 - 📧 Email: sirjeftha@gmail.com  
 
